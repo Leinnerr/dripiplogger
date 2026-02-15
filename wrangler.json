@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "dripiplogger",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "653767bd-3d57-4579-8817-2e9dba151c24",
+			"database_name": "dripiplogger"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
